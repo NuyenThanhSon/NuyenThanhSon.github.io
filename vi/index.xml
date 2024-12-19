@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRIỂN KHAI MỘT TRANG WEB SERVERLESS CHO QUẢN LÝ DỮ LIỆU SẢN PHẨM CƠ BẢN VỚI CÁC DỊCH VỤ AWS on Serverless Website</title>
+    <link>https://nuyenthanhson.github.io/vi/</link>
+    <description>Recent content in TRIỂN KHAI MỘT TRANG WEB SERVERLESS CHO QUẢN LÝ DỮ LIỆU SẢN PHẨM CƠ BẢN VỚI CÁC DỊCH VỤ AWS on Serverless Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://nuyenthanhson.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
